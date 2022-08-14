@@ -55,7 +55,7 @@ módulo | %
 
 
 
-### Fonte:
+### Documentação:
 - [W3schools](https://www.w3schools.com/python/python_operators.asp)
 - [Excript](http://excript.com/python/operador-aritmetico-em-python.html)
 - [The Python Standard Library](https://docs.python.org/3.9/library/index.html)
