@@ -1,3 +1,17 @@
+### Modos de execução de programas em Python
+- Modo Shell
+- Modo Script (arquivos com extensão .py)
+- Modo interativo (Jupyter Notebook)
+Números e operações matemáticas
+
+- int   = -7, 7
+- float = -7.1, 7.1
+Para identificar o tipo de uma variável, use:
+- type()
+Para usar conversão de números, use:
+- int()
+- float()
+
 ### Operadores relacionais
 
 Tabela dos operadores relacionais
@@ -44,3 +58,8 @@ módulo | %
 ### Fonte:
 - [W3schools](https://www.w3schools.com/python/python_operators.asp)
 - [Excript](http://excript.com/python/operador-aritmetico-em-python.html)
+- [The Python Standard Library](https://docs.python.org/3.9/library/index.html)
+- [Built-in Functions](https://docs.python.org/3.9/library/functions.html)
+- [Operator - Standard operators as functions](https://docs.python.org/3.9/library/operator.html)
+- [Python Arithmetic Operators](https://www.w3schools.com/python/gloss_python_arithmetic_operators.asp)
+- [Assignment Operators (operadores de atribuição)](https://www.w3schools.com/python/gloss_python_assignment_operators.asp)
